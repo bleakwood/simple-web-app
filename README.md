@@ -3,10 +3,10 @@ Coding Exercise For SeekPanda
 
 Complete a database powered web application, with following features:
 
-1）Consists only one page, when the user is logged in, it should display:
-"{username} thank you for visiting us! You have logged in {N} times, and total time spent on our site being {M} minutes."
-When the user is not logged in, it should display:
-"There are now {N} registered users and {M} guests visiting our site."
+1）Consists only one page, when the user is logged in, it reads:
+**"{username} thank you for visiting us! You have logged in {N} times, and total time spent on our site being {M} minutes."**
+When the user is not logged in, it reads:
+**"There are now {N} registered users and {M} guests visiting our site."**
 
 2) Users will be able to register with username and password, no email needed.
 
